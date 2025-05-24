@@ -49,6 +49,6 @@ This project automates the extraction of financial data for various Indian indus
 **Phanidhar Venkata Naga Kasuba**  
 MS in Data Analytics, Webster University  
 📫 Email: pkasubavenkatana@webster.edu  
-🔗 [LinkedIn](https://www.linkedin.com/in/YOUR_USERNAME) *(insert your LinkedIn link)*
+🔗 [LinkedIn](www.linkedin.com/in/phanidhar-kasuba-venkata-naga)
 
 ---
